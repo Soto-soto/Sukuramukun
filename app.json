@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "Sukuramukun",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
